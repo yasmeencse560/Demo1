@@ -1,2 +1,3 @@
 hello git
 This is my first Git la
+we check auto build
